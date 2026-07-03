@@ -1,0 +1,4 @@
+interface:
+  display_name: "圖片簡轉繁"
+  short_description: "將圖片中的簡體文字轉為繁體，並保持原圖版式清晰完整。"
+  default_prompt: "Use $image-s2t to convert simplified Chinese text in this image to traditional Chinese while preserving the original layout."
